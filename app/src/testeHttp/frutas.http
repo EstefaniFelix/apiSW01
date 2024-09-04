@@ -1,0 +1,7 @@
+@url = https://8080-estefanifelix-apisw01-r5itvyhgeqd.ws-us116.gitpod.io
+
+###
+GET {{url}}/frutas
+
+###
+GET {{url}}/frutas/2 
